@@ -1,0 +1,23 @@
+/* some colors you may find useful:
+  
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+/*td {
+  height: 50px;
+  width: 1000px;
+}*/
+
+#table {
+  text-align: center;
+  background-color: #115ff4;
+  color:white;
+}
+
+ th,  td{
+  border: solid 1px white;
+  width:15rem;
+  padding:2rem;
+}
